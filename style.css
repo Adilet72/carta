@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div.container{
+    width: 1534px;
+    height: 860px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: 1700px;
+    margin-top: 200px;
+}
+.card{
+    margin-left: -1400px;
+    margin-top: 40px;
+
+    div{
+        display: flex;
+        gap: 10px;
+        h2{
+            width: 227px;
+            height: 72px;
+            font-weight: 400;
+            font-size: 60px;
+            color: #FFFFFF;
+            margin-top: 579px;
+            p{
+                width: 219px;
+                height: 21px;
+                font-weight: 400;
+                font-size: 18px;
+            }
+        }
+        img{
+            width: 100px;
+            height: 100px;
+            margin-top: 580px;           
+        }
+    }
+    h1{
+        width: 192px;
+        height: 168px;
+        font-size: 143px;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 540px;
+        
+    }
+}
+.container2{
+    width: 600px;
+    margin-left: 275px;
+    img{
+        width: 100%;
+        height: 100%;
+    }
+    .card2{
+        p{
+            margin-top: -800px;
+            margin-left: 40px;
+            width: 500px;
+            Height: 50px;
+            font-weight: 400;
+            font-size: 30px;
+            color: #FFFFFFB2;
+            img{
+                margin-left: 199px;
+                Width: 28px;
+                Height: 28px;
+
+            }
+        } 
+        h1{
+            color: #FFFFFFB2;
+            margin-left: 40px;
+            margin-top: -40px;
+        }
+    }
+    h3{
+        Width: 490px;
+        Height: 21px;
+        font-weight: 400;
+        font-size: 31px;
+        margin-left: 40px;
+        margin-top: 50px;
+        color: #FFFFFF;
+    }
+    .card3{
+        h2{
+            Width: 390px;
+            Height: 21px;
+            font-weight: 500;
+            font-size: 19px;
+            margin-top: 60px;
+            margin-left: 40px;
+            color: #FFFFFF;
+        }
+        h4{
+            display: flex;
+            Width: 1000px;
+            Height: 21px;
+            font-weight: 400;
+            font-size: 18px;
+            margin-left: 40px;
+            margin-top: 33px;
+            color: #FFFFFF;
+            p{
+                Width: 390px;
+                margin-left: 200px;
+                Height: 30px;
+                img{
+                    Width: 14px;
+                    Height: 20px;
+                    margin-left: 26px;
+                }
+                .icon{
+                    margin-left: 17px;
+                }
+                .icon2{
+                    margin-left: 31px;
+                }
+                .icon3{
+                    margin-left: 32px;
+                }
+            }
+        }
+        h1{
+            color: #FFFFFFB2;
+            margin-left: 40px;
+            margin-top: -40px;
+            margin-top: 40px;
+        }
+    }
+    .card4{
+        h1{
+            Width: 300px;
+            Height: 21px;
+            font-weight: 400;
+            font-size: 18px;
+            margin-left: 40px;
+            margin-top: 45px;
+            color: #FFFFFF;
+        }
+        div{
+            display: flex;
+            
+            img{
+                Width: 35px;
+                Height: 35px;
+                margin-left: 40px;
+                margin-right: 35px;
+                margin-top: 62px;
+            }
+            P{
+                width: 45px;
+                height: 21px;
+                font-weight: 400;
+                font-size: 18px;
+                margin-top: 65px;
+                margin-right: 167px;
+                color: #FFFFFF;
+                p{
+                    width: 50px;
+                    Height: 32px;
+                    margin-top: 69px;
+                }
+            }
+        }
+    }
+}
